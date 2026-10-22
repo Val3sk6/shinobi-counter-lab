@@ -1,0 +1,37 @@
+{
+  "schema": "shinobi-research-queue-v2",
+  "items": [
+    {
+      "id": "queue-bili-gshu-1",
+      "url": "https://www.bilibili.com/video/BV1iDSRB6E5K/",
+      "date": "2026-04-06",
+      "title": "G叔：3号位须佐卡卡西 / 神秘面具男 / 解斑",
+      "reason": "公开视频可确认题材，但网页文字不足以提取进攻3站位",
+      "status": "await-transcript"
+    },
+    {
+      "id": "queue-bili-2026-1",
+      "url": "https://www.bilibili.com/video/BV1UjxuzXETT/",
+      "date": "2026-08",
+      "title": "姬子青：烈斗、百蛇、白面具等多期合集",
+      "reason": "页面合集介绍有多条线索，但缺少每局完整三人对阵信息",
+      "status": "await-transcript"
+    },
+    {
+      "id": "queue-233-2026-1",
+      "url": "https://www.233leyuan.com/post-detail/2076627930970718208",
+      "date": "2026-07-13",
+      "title": "大蛇丸 / 须卡 / 虎皮进攻思路",
+      "reason": "仅描述进攻站位，未注明完整敌方阵容，禁止作为万能对策入库",
+      "status": "await-defense"
+    },
+    {
+      "id": "queue-233-2025-1",
+      "url": "https://www.233leyuan.com/post-detail/2004082741508649189",
+      "date": "2025-12-25",
+      "title": "纲手 / 百佩 / 白面具历史破阵",
+      "reason": "2025年旧版本方案，保持历史档案，不可用于现版本默认推荐",
+      "status": "historical"
+    }
+  ]
+}
