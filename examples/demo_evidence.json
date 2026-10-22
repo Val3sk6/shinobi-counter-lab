@@ -1,0 +1,31 @@
+{
+  "_note": "以下配队、楼层、日期和战力数据均为虚构演示，严禁当作真实攻略入库。",
+  "platform": "bilibili",
+  "video_url": "https://example.org/fictional-video",
+  "video_id": "FICTIONAL_ONLY",
+  "video_owner_id": "DEMO_UP",
+  "published_at": "2026-10-01",
+  "title": "积分赛破阵教学演示（虚构）",
+  "description": "防守：百蛇、普佩、百虎。进攻：须鼬、创立柱间、天道超。作者展示跨10%，仅为演示。",
+  "comments": [
+    {
+      "comment_id": "comment001",
+      "author_id": "PLAYER",
+      "text": "百蛇、普佩、百虎怎么破？",
+      "replies": [
+        {
+          "reply_id": "reply001",
+          "author_id": "DEMO_UP",
+          "published_at": "2026-10-05",
+          "text": "须鼬、创立柱间、天道超。跨度还没测。"
+        },
+        {
+          "reply_id": "reply002",
+          "author_id": "OTHER_PLAYER",
+          "published_at": "2026-10-05",
+          "text": "秽初、普蛇、天道超也许可以。"
+        }
+      ]
+    }
+  ]
+}
